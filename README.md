@@ -1,1 +1,1 @@
-# mapping betwenn 2Dlidar and depth camera 
+# mapping between 2D lidar and depth camera 
